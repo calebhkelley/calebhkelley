@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @calebhkelley
 - 👀 I’m interested in sociolinguistics, phonetics, second language acquisition (SLA), and Natural Language Processing (NLP). 
 - 🌱 I’m currently working with Python, Montreal Forced Aligner, Praat for sociophonetic analyses, and R. I'm also learning other aspects of programming and data science.
-- 📫 How to reach me: chkelley@ua.edu or @calebhkelley on Twitter and Instagram.
+- 📫 How to reach me: chkelley@ua.edu or @calebhkelley on Twitter.
 
 <!---
 calebhkelley/calebhkelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
