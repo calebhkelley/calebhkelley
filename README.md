@@ -23,7 +23,7 @@
 - 📫 How to reach me: chkelley@ua.edu.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="700" width="900"/>
 </p>
 
 <!---
