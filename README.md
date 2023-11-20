@@ -5,6 +5,21 @@
 - 🌱 I’m currently working with Python, Montreal Forced Aligner, Praat for sociophonetic analyses, and R. I'm also learning other aspects of programming and data science.
 - 📫 How to reach me: chkelley@ua.edu or @calebhkelley on Twitter.
 
+<p align="center">
+  <a href="https://github.com/calebhkelley">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href=https://www.linkedin.com/in/caleb-h-kelley-309081aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/calebhkelley">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/c.h.kelley/">
+    <img src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg" alt="Instagram">
+  </a>
+</p>
+
 <!---
 calebhkelley/calebhkelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
