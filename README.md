@@ -23,7 +23,7 @@
 - 📫 How to reach me: chkelley@ua.edu.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/DALL%C2%B7E%202023-11-20%2017.24.37%20-%20A%20futuristic%2C%20tech-inspired%20image%20for%20a%20GitHub%20profile.%20The%20image%20features%20a%20sleek%2C%20digital%20landscape%20with%20glowing%20neon%20lines%20and%20abstract%20data%20stream.png" height ="800" width="900"/>
+  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/DALL%C2%B7E%202023-11-20%2017.24.37%20-%20A%20futuristic%2C%20tech-inspired%20image%20for%20a%20GitHub%20profile.%20The%20image%20features%20a%20sleek%2C%20digital%20landscape%20with%20glowing%20neon%20lines%20and%20abstract%20data%20stream.png" height ="500" width="900"/>
 </p>
 
 <!---
