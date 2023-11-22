@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=29&duration=1000&pause=1000&color=0D6ABEFF&center=false&random=false&width=435&lines=Hi!+My+name+is+Caleb.;Welcome+to+my+GitHub+page." alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=29&duration=1000&pause=1000&color=0D6ABEFF&center=false&random=false&width=435&lines=Hi!+My+name+is+Caleb.;Welcome+to+my+GitHub+page." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/calebhkelley">
@@ -26,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="600" width="900"/>
 </p>
 
-<!---
-calebhkelley/calebhkelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br></br>
+
+[![Caleb's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calebhkelley&theme=rogue)](https://github.com/calebhkelley/github-readme-activity-graph)
+<br></br>
