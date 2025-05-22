@@ -24,7 +24,7 @@
 - 👋 Hi, I’m @calebhkelley
 - 👀 I’m interested in sociolinguistics, phonetics, second language acquisition (SLA), and Natural Language Processing (NLP). 
 - 🌱 I’m currently working with Python, Montreal Forced Aligner, Praat for sociophonetic analyses, and R. I'm also learning other aspects of programming and data science.
-- 📫 How to reach me: chkelley@ua.edu.
+- 📫 How to reach me: caleb.kelley@emory.edu.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="600" width="900"/>
