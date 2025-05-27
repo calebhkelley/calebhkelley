@@ -19,18 +19,62 @@
   </a>
 </p>
 
+## About Me
+I decode the social meaning hidden in speech patterns. As a sociolinguist specializing in Hispanic communities, I investigate how phonetic variation becomes a powerful tool for identity construction—particularly around gender, sexuality, and cultural belonging.
 
+My interdisciplinary approach combines traditional linguistic theory with computational methods, using Python and R to analyze large-scale phonetic datasets. Whether I'm studying second language acquisition or developing educational technologies, I'm always exploring how the sounds we make shape who we become.
 
-- 👋 Hi, I’m @calebhkelley
-- 👀 I’m interested in sociolinguistics, phonetics, second language acquisition (SLA), and Natural Language Processing (NLP). 
-- 🌱 I’m currently working with Python, Montreal Forced Aligner, Praat for sociophonetic analyses, and R. I'm also learning other aspects of programming and data science.
-- 📫 How to reach me: caleb.kelley@emory.edu.
+## 🛠️ Technologies & Tools
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Linguistic Analysis Tools**  
+- Montreal Forced Aligner
+- Praat (phonetic analysis)
+- Phonetic transcription & analysis
+
+**Research Specializations**  
+- Sociolinguistics & Phonetics
+- Hispanic Linguistics
+- Language Variation & Change
+- Second Language Acquisition
+- Educational Technology
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="600" width="900"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=calebhkelley&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<br></br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebhkelley&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🔬 Research Focus
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="400" width="600"/>
+</p>
+
+**Current Research Areas:**
+- Language, identity, and social meaning
+- Phonetic variation in Hispanic communities
+- Gender and sexuality in sociolinguistics
+- Performance-based methodologies
+- Quantitative linguistic analysis
+
+## 📈 GitHub Activity
 
 [![Caleb's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calebhkelley&theme=rogue)](https://github.com/calebhkelley/github-readme-activity-graph)
-<br></br>
+
+## 📫 Let's Connect!
+
+Interested in computational linguistics, sociolinguistics, or collaborative research? I'd love to hear from you!
+
+**Email:** caleb.kelley@emory.edu
+
+---
+
+*"How the sounds we make shape who we become"*</p>
