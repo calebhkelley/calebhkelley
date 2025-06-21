@@ -16,43 +16,50 @@
   </a>
 </p>
 
-## About Me
+## 👤 About Me
+
 I study how the sounds we produce reflect and construct who we are. As a sociolinguist focused on Hispanic communities, I examine how phonetic variation serves as a tool for expressing gender, sexuality, and cultural identity.
 
 My work bridges usage-based linguistic theory with computational approaches. I use Python and R to analyze large-scale phonetic datasets, applying these tools to projects in machine learning, second language acquisition, and educational technology.
 
-## 🛠️ Technologies & Tools
+---
 
-**Programming & Scripting**  
+## 🧰 Technologies & Tools
+
+### 💻 Programming & Scripting  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Linguistic & Phonetic Tools**  
+### 🔬 Linguistic & Phonetic Tools  
 - Montreal Forced Aligner (forced alignment & segmentation)  
 - Praat (acoustic and phonetic analysis)  
 - IPA transcription & phonological annotation  
 
-**Quantitative & Statistical Analysis**  
-- Phonetic data wrangling with `pandas` and `tidyverse`  
-- Visualization with `matplotlib`, `ggplot2`, and `seaborn`  
-- PCA, Random Forest, and perception modeling  
+### 📊 Quantitative & Statistical Analysis  
+- Data wrangling with `pandas`, `tidyverse`  
+- Visualization with `matplotlib`, `ggplot2`, `seaborn`  
+- PCA, Random Forest, sociophonetic perception modeling  
 
-## 🔬 Research Specializations
+---
 
-**Variationist Sociolinguistics**  
+## 📚 Research Specializations
+
+### 🌍 Variationist Sociolinguistics  
 - Language variation & change  
 - Gender and sexuality in speech  
 - Performance-based methodologies  
 
-**Hispanic Linguistics**  
+### 🇪🇸 Hispanic Linguistics  
 - Phonetic variation in Spanish dialects  
 - Queer speech patterns in Andalusian Spanish  
 
-**Applied Linguistics & Pedagogy**  
+### 🧑‍🏫 Applied Linguistics & Pedagogy  
 - Second language acquisition  
 - Educational technologies for language learning  
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=calebhkelley&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -62,30 +69,36 @@ My work bridges usage-based linguistic theory with computational approaches. I u
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebhkelley&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+---
+
 ## 🧠 Research Focus
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="400" width="600" alt="Brain, Language, and Computation"/>
 </p>
 
-**Current Research Areas:**
+### 🔍 Current Research Areas
 - Phonetic variation and identity construction  
 - Acoustic cues to gendered and queer personae  
 - Perception of sociophonetic variation  
 - Computational sociolinguistics and visualization  
 - Data-driven approaches to language teaching  
 
-## 📈 GitHub Activity
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=calebhkelley&theme=rogue" alt="GitHub Activity Graph" />
 </p>
 
-## 📫 Let's Connect!
+---
+
+## 📬 Let's Connect!
 
 Interested in computational linguistics, sociophonetics, or collaborative research? I’d love to hear from you.
 
-**Email:** caleb.kelley@emory.edu
+📧 **Email:** caleb.kelley@emory.edu
 
 ---
 
