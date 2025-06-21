@@ -17,27 +17,40 @@
 </p>
 
 ## About Me
-I decode the social meaning hidden in speech patterns. As a sociolinguist specializing in Hispanic communities, I investigate how phonetic variation becomes a powerful tool for identity construction—particularly around gender, sexuality, and cultural belonging.
+I study how the sounds we produce reflect and construct who we are. As a sociolinguist focused on Hispanic communities, I examine how phonetic variation serves as a tool for expressing gender, sexuality, and cultural identity.
 
-My interdisciplinary approach combines traditional linguistic theory with computational methods, using Python and R to analyze large-scale phonetic datasets. Whether I'm studying second language acquisition or developing educational technologies, I'm always exploring how the sounds we make shape who we become.
+My work bridges usage-based linguistic theory with computational approaches. I use Python and R to analyze large-scale phonetic datasets, applying these tools to projects in machine learning, second language acquisition, and educational technology.
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages**  
+**Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Linguistic Analysis Tools**  
-- Montreal Forced Aligner
-- Praat (phonetic analysis)
-- Phonetic transcription & analysis
+**Linguistic & Phonetic Tools**  
+- Montreal Forced Aligner (forced alignment & segmentation)  
+- Praat (acoustic and phonetic analysis)  
+- IPA transcription & phonological annotation  
 
-**Research Specializations**  
-- Sociolinguistics & Phonetics
-- Hispanic Linguistics
-- Language Variation & Change
-- Second Language Acquisition
-- Educational Technology
+**Quantitative & Statistical Analysis**  
+- Phonetic data wrangling with `pandas` and `tidyverse`  
+- Visualization with `matplotlib`, `ggplot2`, and `seaborn`  
+- PCA, Random Forest, and perception modeling  
+
+## 🔬 Research Specializations
+
+**Variationist Sociolinguistics**  
+- Language variation & change  
+- Gender and sexuality in speech  
+- Performance-based methodologies  
+
+**Hispanic Linguistics**  
+- Phonetic variation in Spanish dialects  
+- Queer speech patterns in Andalusian Spanish  
+
+**Applied Linguistics & Pedagogy**  
+- Second language acquisition  
+- Educational technologies for language learning  
 
 ## 📊 GitHub Stats
 
@@ -49,29 +62,31 @@ My interdisciplinary approach combines traditional linguistic theory with comput
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebhkelley&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🔬 Research Focus
+## 🧠 Research Focus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="400" width="600"/>
+  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="400" width="600" alt="Brain, Language, and Computation"/>
 </p>
 
 **Current Research Areas:**
-- Language, identity, and social meaning
-- Phonetic variation in Hispanic communities
-- Gender and sexuality in sociolinguistics
-- Performance-based methodologies
-- Quantitative linguistic analysis
+- Phonetic variation and identity construction  
+- Acoustic cues to gendered and queer personae  
+- Perception of sociophonetic variation  
+- Computational sociolinguistics and visualization  
+- Data-driven approaches to language teaching  
 
 ## 📈 GitHub Activity
 
-[![Caleb's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calebhkelley&theme=rogue)](https://github.com/calebhkelley/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calebhkelley&theme=rogue" alt="GitHub Activity Graph" />
+</p>
 
 ## 📫 Let's Connect!
 
-Interested in computational linguistics, sociolinguistics, or collaborative research? I'd love to hear from you!
+Interested in computational linguistics, sociophonetics, or collaborative research? I’d love to hear from you.
 
 **Email:** caleb.kelley@emory.edu
 
 ---
 
-*"How the sounds we make shape who we become"*</p>
+<p align="center"><em>"How the sounds we make shape who we become"</em></p>
