@@ -74,7 +74,7 @@ My work bridges usage-based linguistic theory with computational approaches. I u
 ## 🧠 Research Focus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="200" width="400" alt="Brain, Language, and Computation"/>
+  <img src="https://raw.githubusercontent.com/calebhkelley/calebhkelley/main/brain%20language%20and%20computation.png" height="300" width="400" alt="Brain, Language, and Computation"/>
 </p>
 
 ### 🔍 Current Research Areas
