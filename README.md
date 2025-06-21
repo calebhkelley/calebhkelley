@@ -18,7 +18,7 @@
 
 ## 👤 About Me
 
-I study how the sounds we produce reflect and construct who we are. As a sociolinguist focused on Hispanic communities, I examine how phonetic variation serves as a tool for expressing gender, sexuality, and cultural identity.
+I decode the social meaning hidden in speech patterns. As a sociolinguist specializing in Hispanic communities, I investigate how phonetic variation becomes a powerful tool for identity construction—particularly around gender, sexuality, and cultural belonging.
 
 My work bridges usage-based linguistic theory with computational approaches. I use Python and R to analyze large-scale phonetic datasets, applying these tools to projects in machine learning, second language acquisition, and educational technology.
 
