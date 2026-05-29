@@ -52,18 +52,6 @@ My academic work sits at the intersection of computational methods and socioling
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calebhkelley&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebhkelley&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Let's Connect
 
 📧 **Email:** caleb.kelley@emory.edu
