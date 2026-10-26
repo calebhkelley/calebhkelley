@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Caleb Kelley, Data Scientist and Computational Linguist" width="100%">
+  <img src="assets/banner-light.svg" alt="Caleb Kelley, Computational Linguist and Data Scientist" width="100%">
 </picture>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### Hi, I’m Caleb
 
-I’m a data scientist and computational linguist with a Ph.D. in Romance Languages from The University of Alabama. I work with speech and text data from start to finish, from collecting and cleaning recordings to building statistical and machine learning models that explain how people use language.
+I’m a computational linguist and data scientist with a Ph.D. in Romance Languages from The University of Alabama. I work with speech and text data from start to finish, from collecting and cleaning recordings to building statistical and machine learning models that explain how people use language.
 
 I’m a Visiting Assistant Professor in the Department of Spanish and Portuguese at Emory University. My research examines how speakers use phonetic variation to build socially meaningful personae and how listeners read those cues, with a focus on the voice and sexual identity in Spanish. I combine acoustic analysis, perception experiments, and computational modeling.
 
@@ -53,19 +53,6 @@ A matched-guise perception study comparing how native and non-native Spanish spe
 
 ![Qualtrics](https://img.shields.io/badge/Qualtrics-00B4EF?style=flat-square&logo=qualtrics&logoColor=white)
 ![Mixed Effects](https://img.shields.io/badge/Mixed--effects%20models-276DC3?style=flat-square)
-
-<br>
-
-### Featured Repository
-
-#### [retail-review-nlp](https://github.com/calebhkelley/retail-review-nlp)
-
-NLP analysis of 568K Amazon product reviews. Sentiment analysis with VADER, LDA topic modeling, and supervised classification with logistic regression and random forest pull clear signals out of unstructured customer feedback.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
 
 <br>
 

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Caleb Kelley, data scientist and computational linguist">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Caleb Kelley, computational linguist and data scientist">
   <defs>
     <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="700" y1="0" x2="1240" y2="0">
       <stop offset="0" stop-color="#58a6ff"/>
@@ -10,7 +10,7 @@
   <rect x="0.5" y="0.5" width="1279" height="299" rx="19.5" fill="none" stroke="#30363d"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="72" y="128" font-size="58" font-weight="700" fill="#f0f6fc" letter-spacing="-1">Caleb Kelley</text>
-    <text x="74" y="176" font-size="24" font-weight="500" fill="#c9d1d9">Data Scientist  ·  Computational Linguist</text>
+    <text x="74" y="176" font-size="24" font-weight="500" fill="#c9d1d9">Computational Linguist  ·  Data Scientist</text>
     <rect x="74" y="204" width="56" height="4" rx="2" fill="url(#h)"/>
     <text x="74" y="244" font-size="17" fill="#8b949e" letter-spacing="0.3">Sociophonetics  ·  NLP  ·  Statistical Modeling  ·  Speech Data</text>
   </g>
