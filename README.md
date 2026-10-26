@@ -54,6 +54,8 @@ A matched-guise perception study comparing how native and non-native Spanish spe
 ![Qualtrics](https://img.shields.io/badge/Qualtrics-00B4EF?style=flat-square&logo=qualtrics&logoColor=white)
 ![Mixed Effects](https://img.shields.io/badge/Mixed--effects%20models-276DC3?style=flat-square)
 
+<sub>Also on GitHub. [retail-review-nlp](https://github.com/calebhkelley/retail-review-nlp), an NLP analysis of 568K Amazon reviews using sentiment analysis, LDA topic modeling, and supervised classification in Python.</sub>
+
 <br>
 
 ### Recent Work
