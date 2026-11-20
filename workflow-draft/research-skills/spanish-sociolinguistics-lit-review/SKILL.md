@@ -5,8 +5,8 @@ description: Write publication-quality literature reviews in Spanish sociolingui
 
 # SKILL: Academic Literature Reviews in Spanish / Hispanic Sociolinguistics & Sociophonetics
 
-> **Purpose**: Enable an AI system to produce publication-quality academic literature reviews for scholarly journals, dissertations, edited volumes, and conference proceedings in the fields of Spanish sociolinguistics and sociophonetics.
-> **Derived from**: Chappell (2019) *Recent Advances in the Study of Spanish Sociophonetic Perception*; Kelley (2024) *Sounding Gay and Straight in Seville*; and current best practices in Hispanic linguistics scholarship.
+> Purpose: Enable an AI system to produce publication-quality academic literature reviews for scholarly journals, dissertations, edited volumes, and conference proceedings in the fields of Spanish sociolinguistics and sociophonetics.
+> Derived from: Chappell (2019) *Recent Advances in the Study of Spanish Sociophonetic Perception*; Kelley (2024) *Sounding Gay and Straight in Seville*; and current best practices in Hispanic linguistics scholarship.
 
 ---
 
@@ -19,7 +19,7 @@ description: Write publication-quality literature reviews in Spanish sociolingui
 - The study of how phonetic variation in Spanish carries social meaning.
 - Encompasses BOTH production (how speakers produce variants) AND perception (how listeners interpret variants socially).
 - Operates at the intersection of phonetics, phonology, sociolinguistics, and social psychology.
-- Key insight: phonetic variants are not random—they INDEX social meanings (identity, region, class, sexuality, gender).
+- Key insight: phonetic variants are not random, they INDEX social meanings (identity, region, class, sexuality, gender).
 
 ### 1.2 What Is a Sociophonetic Perception Study?
 - Investigates how listeners assign social meanings to phonetic variants.
@@ -40,15 +40,15 @@ description: Write publication-quality literature reviews in Spanish sociolingui
 When writing a literature review in this field, you MUST engage with the following frameworks. Failure to do so signals unfamiliarity with the field.
 
 #### A. The Three Waves of Variationist Sociolinguistics (Eckert, 2012)
-- **First wave**: Quantitative correlation of linguistic variables with macro-social categories (class, age, gender). Labov (1963, 1966, 1972).
-- **Second wave**: Ethnographic approach; language tied to social identity and group membership. Eckert (1989) Jocks and Burnouts.
-- **Third wave**: Focus on stylistic practice, indexicality, social meaning, and speaker agency. Variables as resources for constructing identity. Eckert (2008, 2012).
-- **Rule**: If your study involves style, persona, or identity performance → frame as third-wave.
-- **Rule**: If your study correlates variants with demographics → frame as first-wave but acknowledge third-wave insights.
+- First wave: Quantitative correlation of linguistic variables with macro-social categories (class, age, gender). Labov (1963, 1966, 1972).
+- Second wave: Ethnographic approach; language tied to social identity and group membership. Eckert (1989) Jocks and Burnouts.
+- Third wave: Focus on stylistic practice, indexicality, social meaning, and speaker agency. Variables as resources for constructing identity. Eckert (2008, 2012).
+- Rule: If your study involves style, persona, or identity performance → frame as third-wave.
+- Rule: If your study correlates variants with demographics → frame as first-wave but acknowledge third-wave insights.
 
 #### B. Indexicality and the Indexical Field (Eckert, 2008; Silverstein, 2003)
 - Phonetic variants do not have fixed social meanings.
-- They occupy an "indexical field"—a constellation of ideologically related potential meanings.
+- They occupy an "indexical field", a constellation of ideologically related potential meanings.
 - Any meaning can be activated depending on speaker, listener, and context.
 - Example: hyperarticulated /t/ release in English can index nerd girl identity (Bucholtz, 2001), gay male identity (Podesva, 2006), or Orthodox Jewish identity (Benor, 2001).
 - In Spanish: sibilant /s/ retention can index higher status, non-heteronormativity, regional origin, or formality depending on dialect context.
@@ -56,10 +56,10 @@ When writing a literature review in this field, you MUST engage with the followi
 #### C. Performativity (Butler, 1990)
 - Gender and sexuality are not pre-discursive natural categories.
 - They are constituted through repeated discursive performance of cultural norms.
-- Differs from "performance"—performativity is the iterative process by which identities come into being.
+- Differs from "performance", performativity is the iterative process by which identities come into being.
 - Critical for studies involving LGBTQ+ speakers or gendered speech.
 
-#### D. Sociolinguistic Personae (D'Onofrio, 2020; Podesva et al., 2001)
+#### D. Sociolinguistic Personae (D’Onofrio, 2020; Podesva et al., 2001)
 - Holistic ideological social types linked to ways of speaking.
 - Distinct from macro-social categories (gender, race, class).
 - Constructed through both linguistic and non-linguistic features.
@@ -67,7 +67,7 @@ When writing a literature review in this field, you MUST engage with the followi
 
 #### E. Exemplar Theory and Socially Weighted Encoding (Sumner et al., 2014; Drager & Kirtley, 2016)
 - Speakers store individual tokens with both phonetic AND social information.
-- Social salience affects encoding weight—socially salient tokens carry more weight.
+- Social salience affects encoding weight, socially salient tokens carry more weight.
 - Predicts that individuals more aware of a sociolinguistic variable will be more sensitive to social priming.
 - Used to explain perception results where listener characteristics modulate effects.
 
@@ -92,7 +92,7 @@ When writing a literature review in this field, you MUST engage with the followi
 | Intervocalic /k/ voicing | [k] → [ɡ] | Chilean | Age, regionality, gender |
 | Vowel variation | Multiple patterns | Asturian, contact varieties | Regionality, bilingual identity, urbanity |
 
-**RULE**: When reviewing literature on a specific variable, you MUST discuss its indexical field—the range of social meanings it can carry—not just one meaning.
+RULE: When reviewing literature on a specific variable, you MUST discuss its indexical field, the range of social meanings it can carry, not just one meaning.
 </key_phonetic_variables>
 
 </domain_knowledge>
@@ -140,7 +140,7 @@ IF edited_volume_chapter:
 ### 2.2 Organizational Patterns
 
 <decision_framework>
-**Choose organization by asking**:
+Choose organization by asking:
 
 ```
 IF study_covers_multiple_regions:
@@ -185,20 +185,20 @@ OR
 <citation_density_rules>
 ### 2.4 Citation Density and Placement
 
-**Rule: Every empirical claim requires a citation.** No exceptions in this field.
+Rule: Every empirical claim requires a citation. No exceptions in this field.
 
-**Density benchmarks** (per paragraph):
+Density benchmarks (per paragraph):
 - Introduction paragraph: 3–6 citations
 - Theoretical framing paragraph: 2–4 citations
 - Empirical review paragraph: 4–8 citations
 - Synthesis/gap paragraph: 2–4 citations
 
-**Placement rules**:
+Placement rules:
 - FIRST mention of a finding → full citation: (Author, Year)
 - Subsequent mentions in same section → Author (Year) as subject
 - Lists of corroborating studies → (Author1, Year; Author2, Year; Author3, Year)
 - ALWAYS order lists chronologically or alphabetically by author
-- For seminal works, use "Author's (Year) foundational/seminal/influential work"
+- For seminal works, use "Author’s (Year) foundational/seminal/influential work"
 - For very recent works, use "More recently, Author (Year) has shown..."
 </citation_density_rules>
 
@@ -213,14 +213,14 @@ OR
 <register_rules>
 ### 3.1 Register and Tone
 
-- **Voice**: Third person or impersonal constructions for journal articles. First person ("I") is acceptable in dissertations and some edited volume chapters.
-- **Tense**: Present tense for established knowledge ("Coda /s/ weakens in Andalusian Spanish"). Past tense for specific study findings ("Chappell (2016) found that...").
-- **Hedging**: Required. Use "suggests," "indicates," "appears to," "may," "tends to." Avoid "proves," "demonstrates conclusively."
-- **Specificity**: Always name the specific dialect, community, or region. Never write "Spanish speakers" when you mean "Sevillian Spanish speakers" or "Puerto Rican listeners."
+- Voice: Third person or impersonal constructions for journal articles. First person ("I") is acceptable in dissertations and some edited volume chapters.
+- Tense: Present tense for established knowledge ("Coda /s/ weakens in Andalusian Spanish"). Past tense for specific study findings ("Chappell (2016) found that...").
+- Hedging: Required. Use "suggests," "indicates," "appears to," "may," "tends to." Avoid "proves," "demonstrates conclusively."
+- Specificity: Always name the specific dialect, community, or region. Never write "Spanish speakers" when you mean "Sevillian Spanish speakers" or "Puerto Rican listeners."
 
 ### 3.2 Terminology Precision
 
-**ALWAYS use these precise terms** (not vague alternatives):
+ALWAYS use these precise terms (not vague alternatives):
 
 | ✅ USE | ❌ AVOID |
 |--------|---------|
@@ -241,7 +241,7 @@ OR
 
 ### 3.3 Describing Study Findings
 
-**Template for summarizing a single study:**
+Template for summarizing a single study:
 
 ```
 [Author] ([Year]) [investigated/examined/explored] [WHAT] [in COMMUNITY/DIALECT].
@@ -250,7 +250,7 @@ OR
 [These results suggest/indicate/support] [THEORETICAL IMPLICATION].
 ```
 
-**Template for comparing multiple studies:**
+Template for comparing multiple studies:
 
 ```
 [Several/Multiple/A number of] studies have examined [PHENOMENON] across 
@@ -261,7 +261,7 @@ found [RESULT1] in [CONTEXT1], [Author2] observed [RESULT2] in [CONTEXT2],
 
 ### 3.4 Describing Theoretical Concepts
 
-**Template for introducing a framework:**
+Template for introducing a framework:
 
 ```
 [Author's] ([Year]) [concept/framework/model] of [NAME] has been 
@@ -364,13 +364,13 @@ LEVEL 3 - BRIEF CITATION (1 sentence or parenthetical):
 
 ### 4.3 When to Compare Across Studies
 
-**ALWAYS compare when:**
+ALWAYS compare when:
 - Two studies examine the same variable in different dialects
 - Two studies find contradictory results
 - Two studies use different methodologies to study the same phenomenon
 - A production study and a perception study address the same variable
 
-**Comparison template:**
+Comparison template:
 ```
 While [Author1] ([Year]) found [FINDING] in [DIALECT/COMMUNITY], 
 [Author2] ([Year]) observed [DIFFERENT/SIMILAR FINDING] in [DIALECT/COMMUNITY].
@@ -383,16 +383,16 @@ listener/speaker population differences].
 <gap_identification>
 ### 4.4 Identifying and Articulating Research Gaps
 
-**Common gap types in this field (use these framings):**
+Common gap types in this field (use these framings):
 
-1. **Geographic gap**: "While studies have examined [VARIABLE] in [DIALECTS], [YOUR DIALECT] remains unexplored."
-2. **Population gap**: "Previous research has overlooked [POPULATION] speakers in studies of [VARIABLE]."
-3. **Methodological gap**: "Most studies have relied on [METHOD]; [ALTERNATIVE METHOD] could provide [ADVANTAGE]."
-4. **Perception gap**: "Production studies have shown [PATTERN], but the social perceptions associated with this variation remain unknown."
-5. **Intersectionality gap**: "Studies have examined [FACTOR1] and [FACTOR2] independently, but their interaction has not been investigated."
-6. **Theoretical gap**: "While [PHENOMENON] has been described, it has not been analyzed through the lens of [FRAMEWORK]."
+1. Geographic gap: "While studies have examined [VARIABLE] in [DIALECTS], [YOUR DIALECT] remains unexplored."
+2. Population gap: "Previous research has overlooked [POPULATION] speakers in studies of [VARIABLE]."
+3. Methodological gap: "Most studies have relied on [METHOD]; [ALTERNATIVE METHOD] could provide [ADVANTAGE]."
+4. Perception gap: "Production studies have shown [PATTERN], but the social perceptions associated with this variation remain unknown."
+5. Intersectionality gap: "Studies have examined [FACTOR1] and [FACTOR2] independently, but their interaction has not been investigated."
+6. Theoretical gap: "While [PHENOMENON] has been described, it has not been analyzed through the lens of [FRAMEWORK]."
 
-**Template for gap articulation:**
+Template for gap articulation:
 ```
 Despite [considerable/significant/growing] advances in [AREA], 
 [several/notable/important] gaps remain. [First/In particular/Most notably], 
@@ -412,45 +412,45 @@ The present study addresses [these gaps / this gap] by [YOUR CONTRIBUTION].
 <key_studies_database>
 ### 5.1 Foundational Studies You Must Know
 
-**Matched-Guise Technique Origins:**
-- Lambert, Hodgson, Gardner, & Fillenbaum (1960) — foundational matched-guise method
+Matched-Guise Technique Origins:
+- Lambert, Hodgson, Gardner, & Fillenbaum (1960), foundational matched-guise method
 
-**Spanish /s/ Perception:**
-- Walker, García, Cortés, & Campbell-Kibler (2014) — indexical field of Spanish /s/; compared Puerto Rican and Mexican listeners
-- Chappell (2016) — social perception of intervocalic /s/ voicing in Costa Rica
-- Chappell (2019) — Mexican listeners' evaluations of /s/ aspiration
-- Mack (2009, 2010, 2011) — /s/ variation and perceived sexual orientation in Puerto Rican Spanish
-- Mack & Munson (2012) — "gay lisp" stereotype and /s/ quality perception
+Spanish /s/ Perception:
+- Walker, García, Cortés, & Campbell-Kibler (2014), indexical field of Spanish /s/; compared Puerto Rican and Mexican listeners
+- Chappell (2016), social perception of intervocalic /s/ voicing in Costa Rica
+- Chappell (2019), Mexican listeners’ evaluations of /s/ aspiration
+- Mack (2009, 2010, 2011), /s/ variation and perceived sexual orientation in Puerto Rican Spanish
+- Mack & Munson (2012), "gay lisp" stereotype and /s/ quality perception
 
-**Spanish /s/ Production:**
-- Cedergren (1973), Terrell (1977, 1978, 1979) — foundational Caribbean /s/ aspiration studies
-- Samper Padilla (2011) — comprehensive overview of /s/ variation across Spain
-- File-Muriel (2010) — frequency effects on /s/ weakening
+Spanish /s/ Production:
+- Cedergren (1973), Terrell (1977, 1978, 1979), foundational Caribbean /s/ aspiration studies
+- Samper Padilla (2011), comprehensive overview of /s/ variation across Spain
+- File-Muriel (2010), frequency effects on /s/ weakening
 
-**Andalusian Spanish:**
-- Hernández-Campoy & Villena Ponsoda (2009) — standardness and nonstandardness in Spain
-- Villena Ponsoda (multiple) — Málaga studies on dialect convergence
-- Regan (2017) — ceceo to distinción convergence in Lepe and Huelva
+Andalusian Spanish:
+- Hernández-Campoy & Villena Ponsoda (2009), standardness and nonstandardness in Spain
+- Villena Ponsoda (multiple), Málaga studies on dialect convergence
+- Regan (2017), ceceo to distinción convergence in Lepe and Huelva
 
-**Contact Varieties:**
-- Barnes (2015, 2016) — Asturian Spanish vowel perception and production
-- Davidson (2012, 2014, 2015) — Catalonian Spanish lateral and fricative variation
-- Schmidt (2013) — regional variation in perception of /s/ variants
+Contact Varieties:
+- Barnes (2015, 2016), Asturian Spanish vowel perception and production
+- Davidson (2012, 2014, 2015), Catalonian Spanish lateral and fricative variation
+- Schmidt (2013), regional variation in perception of /s/ variants
 
-**Language and Sexuality:**
-- Munson et al. (2006) — acoustic/perceptual characteristics of GLB speech
-- Levon (2006, 2007, 2011) — pitch range, sibilants, and sexual orientation perception
-- Podesva et al. (2001) — phonetic construction of gay identity
-- Zimman (2017) — transgender speakers and phonetic gender construction
-- Russell (2015, 2017) — performance-based sexual identity encoding in Italian and French
+Language and Sexuality:
+- Munson et al. (2006), acoustic/perceptual characteristics of GLB speech
+- Levon (2006, 2007, 2011), pitch range, sibilants, and sexual orientation perception
+- Podesva et al. (2001), phonetic construction of gay identity
+- Zimman (2017), transgender speakers and phonetic gender construction
+- Russell (2015, 2017), performance-based sexual identity encoding in Italian and French
 
-**Theoretical Foundations:**
-- Eckert (2008, 2012) — indexical field, third-wave variationism
-- Butler (1990) — performativity
-- Silverstein (2003) — indexical order
-- Campbell-Kibler (2007, 2009) — nature of sociolinguistic perception
-- D'Onofrio (2020) — sociolinguistic personae
-- Sumner et al. (2014) — socially weighted encoding
+Theoretical Foundations:
+- Eckert (2008, 2012), indexical field, third-wave variationism
+- Butler (1990), performativity
+- Silverstein (2003), indexical order
+- Campbell-Kibler (2007, 2009), nature of sociolinguistic perception
+- D’Onofrio (2020), sociolinguistic personae
+- Sumner et al. (2014), socially weighted encoding
 </key_studies_database>
 
 <dialect_region_profiles>
@@ -458,32 +458,32 @@ The present study addresses [these gaps / this gap] by [YOUR CONTRIBUTION].
 
 When writing about a specific region, include these standard contextual elements:
 
-**Andalusian Spanish:**
+Andalusian Spanish:
 - Western (Seville, Cádiz, Huelva) vs. Eastern (Granada, Málaga, Almería)
 - Key features: coda /s/ aspiration/deletion, seseo/ceceo/distinción, yeísmo
 - Change in progress: ceceo → distinción (convergence toward national standard)
 - Norma sevillana: regional prestige of seseo in Western Andalusia
 - Sociolinguistic profile: complex urban-rural dynamics, increasing mobility
 
-**Caribbean Spanish:**
+Caribbean Spanish:
 - Key features: coda /s/ aspiration/deletion, lateralization of /ɾ/, velarization of /n/
 - /s/ aspiration is widespread and carries less stigma than in other regions
 - Important distinction: Puerto Rican vs. Dominican vs. Cuban patterns
 
-**Highland Ecuadorian Spanish:**
+Highland Ecuadorian Spanish:
 - Three sub-dialects: Quito (Central), Cuenca, Loja
 - Key distinguishing features: intervocalic /s/ voicing, /r/ assibilation, lleísmo
 - /s/ voicing: categorical in Quito/Cuenca (word-final), gradient in Loja
 - Indigenous language contact (Kichwa) shapes Highland varieties
 
-**Catalonian Spanish:**
+Catalonian Spanish:
 - Contact with Catalan; bilingualism is widespread
 - Key features: /l/ velarization (dark [ɫ]), intervocalic /s/ voicing
 - [ɫ] = linguistic stereotype (overt awareness); [z] = indicator (no overt awareness)
 - Linguistic cosmopolitanism: positive attitudes toward bilingual speech markers
 - Historical context: Franco-era suppression → normalization → current co-officiality
 
-**Rioplatense Spanish:**
+Rioplatense Spanish:
 - Key features: sheísmo/žeísmo, voseo
 - [ʃ] (devoiced variant) spreading among younger speakers
 - Ongoing change in real time (Rohena-Madrazo, 2015)
@@ -494,14 +494,14 @@ When writing about a specific region, include these standard contextual elements
 
 When describing methodology from prior studies, use these precise terms:
 
-**Experimental Paradigms:**
+Experimental Paradigms:
 - Matched-guise technique/test (MGT): Listeners evaluate the SAME speaker producing different variants
 - Verbal-guise technique: Different speakers (not matched); less controlled
 - Binary forced-choice identification task: Listeners choose between two options
 - Likert scale / semantic differential scale: Rating on a numbered continuum
 - Implicit Association Test (IAT): Measures implicit attitudes
 
-**Acoustic Measures:**
+Acoustic Measures:
 - Center of gravity (COG): Average frequency weighted by amplitude; used for sibilants
 - Spectral moments: COG, variance, skewness, kurtosis of spectral distribution
 - Duration (ms): Length of a segment
@@ -510,13 +510,13 @@ When describing methodology from prior studies, use these precise terms:
 - Voice onset time (VOT): Time between stop release and voicing onset
 - Voicing percentage: Proportion of segment with vocal fold vibration
 
-**Statistical Methods:**
+Statistical Methods:
 - Mixed-effects regression (linear or logistic): Standard for sociolinguistic data with random effects of speaker and listener
 - Random forest: Used for variable importance ranking
 - Factor analysis: Used to combine correlated rating scales into composite factors
 - Post-hoc tests with Bonferroni correction: For multiple pairwise comparisons
 - Multinomial logistic regression: For categorical dependent variables with >2 levels
-- Cohen's d: Effect size measure for comparing means
+- Cohen’s d: Effect size measure for comparing means
 </methodology_vocabulary>
 
 </spanish_specific_knowledge>
@@ -530,58 +530,58 @@ When describing methodology from prior studies, use these precise terms:
 <mistakes_to_avoid>
 ### 6.1 Content Mistakes
 
-1. **Treating the "gay voice" as monolithic.**
+1. Treating the "gay voice" as monolithic.
    - ❌ "Gay men speak with a lisp and higher pitch."
    - ✅ "While stereotypes associate certain phonetic features with gay male speech, empirical research reveals considerable diversity within the LGBTQ+ community and context-dependent variation (Kulick, 2000; Podesva et al., 2001)."
 
-2. **Conflating production and perception.**
+2. Conflating production and perception.
    - ❌ "Speakers aspirate /s/ because it sounds less educated."
    - ✅ "Production studies show higher rates of /s/ aspiration among certain groups (Author, Year), while perception studies suggest listeners associate aspiration with lower status (Author, Year). The relationship between production motivations and social evaluations remains complex."
 
-3. **Overgeneralizing across dialects.**
+3. Overgeneralizing across dialects.
    - ❌ "In Spanish, /s/ aspiration indexes low status."
    - ✅ "The social evaluation of /s/ aspiration varies by dialect. In Mexican Spanish, it is associated with lower status (Walker et al., 2014), whereas in Caribbean varieties, it is more normative (Chappell, 2019)."
 
-4. **Ignoring listener characteristics.**
+4. Ignoring listener characteristics.
    - ❌ "Listeners rated the aspirated guise as lower status."
    - ✅ "Listener evaluations were modulated by regional background: Puerto Rican listeners rated /s/ aspiration less negatively than Mexican listeners (Walker et al., 2014)."
 
-5. **Binary framing of sexual orientation.**
+5. Binary framing of sexual orientation.
    - ❌ "This study compares gay and straight speech."
    - ✅ "This study examines phonetic variation across self-identified sexual orientation groups, recognizing that sexual orientation operates on a continuum (Kinsey et al., 1948) rather than as a strict binary."
 
-6. **Neglecting the bidirectional link between production and perception.**
+6. Neglecting the bidirectional link between production and perception.
    - ❌ Reviewing only production OR only perception without acknowledging the other.
    - ✅ "The relationship between social and linguistic information is bidirectional: linguistic information influences social perception, and social information can alter linguistic perception (Campbell-Kibler, 2009; Barnes, 2015)."
 
-7. **Using folk terminology in academic prose.**
+7. Using folk terminology in academic prose.
    - ❌ "dropped s," "thick accent," "sounds gay"
    - ✅ "aspirated/deleted variant," "socially marked features," "perceived as indexing non-heteronormative identity"
 
-8. **Failing to connect variable to indexical field.**
+8. Failing to connect variable to indexical field.
    - ❌ "Coda /s/ aspiration is studied because it varies."
    - ✅ "Coda /s/ aspiration constitutes a particularly rich site for sociophonetic investigation because its indexical field encompasses meanings related to status, regionality, heteronormativity, formality, and education (Walker et al., 2014; Chappell, 2019)."
 
 ### 6.2 Structural Mistakes
 
-1. **No bridge sentences between sections.** → Every section must connect to the next.
-2. **Listing studies without synthesis.** → Always state what the collective findings mean.
-3. **Burying your contribution.** → State the gap AND your study's response to it clearly.
-4. **Front-loading theory without empirical grounding.** → Interleave theory and evidence.
-5. **Ending the lit review without a synthesis section.** → ALWAYS end with synthesis + gaps.
-6. **Omitting the "so what" for each study cited.** → After summarizing, explain relevance.
+1. No bridge sentences between sections. → Every section must connect to the next.
+2. Listing studies without synthesis. → Always state what the collective findings mean.
+3. Burying your contribution. → State the gap AND your study’s response to it clearly.
+4. Front-loading theory without empirical grounding. → Interleave theory and evidence.
+5. Ending the lit review without a synthesis section. → ALWAYS end with synthesis + gaps.
+6. Omitting the "so what" for each study cited. → After summarizing, explain relevance.
 
 ### 6.3 Framing Mistakes
 
-1. **Deficit framing of minority speakers.**
+1. Deficit framing of minority speakers.
    - ❌ "Gay speakers deviate from the heterosexual norm."
    - ✅ "Phonetic features function as resources for constructing and indexing diverse social identities, including sexual orientation."
 
-2. **Presenting correlations as causation.**
+2. Presenting correlations as causation.
    - ❌ "Aspiration causes speakers to be perceived as lower class."
    - ✅ "Aspiration is associated with lower status evaluations in this community."
 
-3. **Assuming universality of social meanings.**
+3. Assuming universality of social meanings.
    - ❌ "Sibilant /s/ is universally associated with gayness."
    - ✅ "Cross-linguistic evidence suggests /s/ variation may serve as a cue to perceived sexual orientation in some languages (Boyd, 2018; Mack & Munson, 2012), though its social meaning is culturally and dialectally specific."
 </mistakes_to_avoid>
@@ -596,13 +596,13 @@ When describing methodology from prior studies, use these precise terms:
 
 ### 7.1 Opening a Literature Review Section
 
-**❌ BAD:**
+❌ BAD:
 ```
 Many studies have been done on Spanish /s/. Some look at production 
 and some look at perception. This section reviews them.
 ```
 
-**✅ GOOD:**
+✅ GOOD:
 ```
 The phoneme /s/ in Spanish exhibits a wide range of realizations across 
 different dialects, making it a significant focus in Hispanic linguistics 
@@ -616,7 +616,7 @@ sociolinguistic variation, and phonological theory.
 
 ### 7.2 Summarizing a Key Study
 
-**❌ BAD:**
+❌ BAD:
 ```
 Chappell (2016) studied intervocalic /s/ voicing in Costa Rica. 
 She found that voiced /s/ is associated with lower status for all 
@@ -625,7 +625,7 @@ and masculinity for male speakers. This shows that speaker gender
 alters how variants are perceived.
 ```
 
-**✅ GOOD:**
+✅ GOOD:
 ```
 Chappell (2016) investigated the social perception of intervocalic 
 /s/ voicing in Costa Rican Spanish through a matched-guise experiment. 
@@ -645,14 +645,14 @@ absence of positive social gains from innovative variants.
 
 ### 7.3 Synthesizing Multiple Studies
 
-**❌ BAD:**
+❌ BAD:
 ```
 Barnes (2015) studied Asturian Spanish. Davidson (2014) studied 
 Catalonian Spanish. García (2015) studied Ecuadorian Spanish. 
 These studies all looked at different things.
 ```
 
-**✅ GOOD:**
+✅ GOOD:
 ```
 Perception studies across contact varieties of Spanish reveal a 
 consistent pattern: contact features are evaluated differently by 
@@ -675,13 +675,13 @@ on experience with the relevant variation (Drager & Kirtley, 2016).
 
 ### 7.4 Identifying a Research Gap
 
-**❌ BAD:**
+❌ BAD:
 ```
 No one has studied gay speech in Seville before, so that's what 
 this study does.
 ```
 
-**✅ GOOD:**
+✅ GOOD:
 ```
 Despite considerable advances in the sociolinguistic study of gender 
 and sexuality in English-speaking contexts, the representation of 
@@ -804,7 +804,7 @@ Before finalizing any literature review, verify ALL of the following:
 - [ ] Indexical field of the variable is discussed (not just one meaning)
 - [ ] Cross-dialectal or cross-linguistic comparisons are included
 - [ ] Research gap(s) are explicitly stated
-- [ ] Your study's contribution to filling the gap is articulated
+- [ ] Your study’s contribution to filling the gap is articulated
 - [ ] Intersectionality is addressed (if studying gender/sexuality)
 
 ### Structural Integrity
@@ -875,7 +875,7 @@ need for [perception studies that complement existing production data /
 studies that examine both directions in the same community].
 ```
 
-### 10.4 Labov's Indicator-Marker-Stereotype Classification
+### 10.4 Labov’s Indicator-Marker-Stereotype Classification
 When discussing awareness levels of a variable:
 
 ```
@@ -915,43 +915,43 @@ social gains can be made, they opt for the more conservative form
 
 These are the works most frequently cited across the field. Any literature review touching these topics should engage with the relevant subset.
 
-**Sociolinguistic Theory:**
-- Bell (1984) — Audience design
-- Butler (1990) — Gender Trouble; performativity
-- Campbell-Kibler (2007, 2009) — Nature of sociolinguistic perception
-- Coupland (2007) — Style
-- D'Onofrio (2020) — Sociolinguistic personae
-- Eckert (1989, 2000, 2008, 2012) — Variationism waves, indexical field
-- Labov (1963, 1966, 1972, 2001) — Foundational variationism, gender paradox
-- Silverstein (2003) — Indexical order
+Sociolinguistic Theory:
+- Bell (1984), Audience design
+- Butler (1990), Gender Trouble; performativity
+- Campbell-Kibler (2007, 2009), Nature of sociolinguistic perception
+- Coupland (2007), Style
+- D’Onofrio (2020), Sociolinguistic personae
+- Eckert (1989, 2000, 2008, 2012), Variationism waves, indexical field
+- Labov (1963, 1966, 1972, 2001), Foundational variationism, gender paradox
+- Silverstein (2003), Indexical order
 
-**Spanish Phonetics/Dialectology:**
-- Hualde (2014) — Los sonidos del español
-- Lipski (1994) — Latin American Spanish
-- Penny (2002) — Gramática histórica del español
-- Quilis (1981) — Spanish phonetics
+Spanish Phonetics/Dialectology:
+- Hualde (2014), Los sonidos del español
+- Lipski (1994), Latin American Spanish
+- Penny (2002), Gramática histórica del español
+- Quilis (1981), Spanish phonetics
 
-**Spanish Sociophonetic Perception:**
-- Barnes (2015) — Asturian Spanish perception
-- Chappell (2016, 2019) — Costa Rican and Mexican /s/ perception
-- Davidson (2015, this vol.) — Catalonian Spanish attitudes
-- García (2015, this vol.) — Ecuadorian /s/ voicing perception
-- Regan (this vol.) — Ceceo/distinción perception in Lepe
-- Schmidt (2013) — Regional variation in /s/ perception
-- Walker et al. (2014) — Indexical field of Spanish /s/
+Spanish Sociophonetic Perception:
+- Barnes (2015), Asturian Spanish perception
+- Chappell (2016, 2019), Costa Rican and Mexican /s/ perception
+- Davidson (2015, this vol.), Catalonian Spanish attitudes
+- García (2015, this vol.), Ecuadorian /s/ voicing perception
+- Regan (this vol.), Ceceo/distinción perception in Lepe
+- Schmidt (2013), Regional variation in /s/ perception
+- Walker et al. (2014), Indexical field of Spanish /s/
 
-**Language and Sexuality:**
-- Bucholtz & Hall (2004, 2005) — Identity in interaction
-- Kiesling (2019) — Stance and sexual identity
-- Levon (2006, 2007, 2011, 2015) — Pitch, sibilants, intersectionality
-- Mack (2009, 2011) — /s/ and sexual orientation in Puerto Rican Spanish
-- Mack & Munson (2012) — Gay lisp stereotype
-- Munson et al. (2006) — Acoustic characteristics of GLB speech
-- Podesva et al. (2001) — Gay identity construction through speech
+Language and Sexuality:
+- Bucholtz & Hall (2004, 2005), Identity in interaction
+- Kiesling (2019), Stance and sexual identity
+- Levon (2006, 2007, 2011, 2015), Pitch, sibilants, intersectionality
+- Mack (2009, 2011), /s/ and sexual orientation in Puerto Rican Spanish
+- Mack & Munson (2012), Gay lisp stereotype
+- Munson et al. (2006), Acoustic characteristics of GLB speech
+- Podesva et al. (2001), Gay identity construction through speech
 
-**Exemplar Theory / Processing:**
-- Drager & Kirtley (2016) — Awareness, salience, stereotypes
-- Hay, Warren, & Drager (2006) — Social factors in speech perception
-- Sumner et al. (2014) — Socially weighted encoding
+Exemplar Theory / Processing:
+- Drager & Kirtley (2016), Awareness, salience, stereotypes
+- Hay, Warren, & Drager (2006), Social factors in speech perception
+- Sumner et al. (2014), Socially weighted encoding
 
 </appendix_key_references>
